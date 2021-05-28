@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a fresher at PES University in the Electronics and Communication Engineering Branch. I am interested in IoT and Drones.
 
 - 🔭 I’m currently working on Image Processing
 - 🌱 I’m currently learning OpenCV

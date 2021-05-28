@@ -6,6 +6,8 @@ I am a fresher at PES University in the Electronics and Communication Engineerin
 - 🌱 I’m currently learning OpenCV
 - 👯 I’m looking to collaborate on Image Processing Projects
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jacob-02)
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
+![Github stats](https://github-readme-stats.vercel.app/api?username=jacob-02
+<a href="https://github.com/jacob-02/jacob-02">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-02&hide=python,css,ctex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 

@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
 ### Hi there 👋
 
 I am a fresher at PES University in the Electronics and Communication Engineering Branch. I am interested in IoT and Drones.
@@ -9,3 +7,5 @@ I am a fresher at PES University in the Electronics and Communication Engineerin
 - 👯 I’m looking to collaborate on Image Processing Projects
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jacob-02)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
+

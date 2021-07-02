@@ -3,7 +3,7 @@
 I am a fresher at PES University in the Electronics and Communication Engineering Branch. I am interested in IoT and Drones.
 
 - 🔭 I’m currently working on Robotic Arm
-- 🌱 I’m currently learning Image Processing
+- 🌱 I’m currently learning ROS
 - 👯 I’m looking to collaborate on Image Processing Projects
 
 ![Github stats](https://github-readme-stats-jacob-02.vercel.app/api?username=jacob-02&theme=tokyonight)

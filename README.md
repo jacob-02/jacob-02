@@ -1,6 +1,6 @@
 # Hello, I am Jacob V Sanoj <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I'm a Electronics and Communication 3rd Year pursuing my B.Tech from PES University, India. A self-taught, passionate robotics engineer with an interest in ROS and AMRs.
+I'm a Electronics and Communication 4th Year pursuing my B.Tech from PES University, India. A self-taught, passionate robotics engineer with an interest in ROS and AMRs. Part of the Robotics Software Development team at Accio Robotics.
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>

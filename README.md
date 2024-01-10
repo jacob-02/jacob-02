@@ -32,5 +32,4 @@ I'm a Electronics and Communication 4th Year pursuing my B.Tech from PES Univers
 ![Github stats](https://github-readme-stats-jacob-02.vercel.app/api?username=jacob-02&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-jacob-02.vercel.app/api/top-langs/?username=jacob-02&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jacob-02&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jacob-02)](https://git.io/streak-stats)
